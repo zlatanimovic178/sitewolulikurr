@@ -1,0 +1,4 @@
+baseURL = "https://kidspoemsnew.vercel.app"
+languageCode = "en-us"
+title = "Kids Poems 2021"
+theme = "hugo-theme-minos"
